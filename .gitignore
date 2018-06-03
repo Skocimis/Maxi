@@ -17,6 +17,9 @@
 # User dictionary
 *.user.dic
 
+# C file editor information
+*.c.ini
+
 # No idea what this is but it's probably useless
 *.brk
 *.mcppi_callertable.txt

@@ -28,7 +28,8 @@ void main() {
      while (1) {
            sendChannel(1);
            sendChannel(2);
-           sendChannel(4);
+           sendChannel(3);
            sendDelimiter();
+           Delay_ms(100);
      }
 }
