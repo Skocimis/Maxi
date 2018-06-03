@@ -1,0 +1,22 @@
+# Build files
+*.asm
+*.cp
+*.dbg
+*.dct
+*.dlt
+*.hex
+*.lst
+*.mcl
+
+# Bookmarks
+*.bmk
+
+# Log files
+*.log
+
+# User dictionary
+*.user.dic
+
+# No idea what this is but it's probably useless
+*.brk
+*.mcppi_callertable.txt
